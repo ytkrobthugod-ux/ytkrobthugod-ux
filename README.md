@@ -57,7 +57,7 @@ Open to discussions on AI, coding challenges, or potential collaborations—let'
 ---
 
 ## ⚡ Random Fun Fact
-Did you know? The name "Roboto" is inspired by modern typography, but in my codespace, it's all about robotic precision in code! 🤖✨
+Did you know? The name "Roboto" was inspired by my own name Roberto becuase I like rhyming with words just felt right! 🤖✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ytkrobthugod-ux&color=FF6B6B&style=for-the-badge)
 
